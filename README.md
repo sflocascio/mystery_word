@@ -4,32 +4,6 @@
 
 Implement the game of Mystery Word.
 
-## Objectives
-
-After completing this assignment, you should understand:
-
-- All the basics of Python!
-
-After completing this assignment, you should be able to:
-
-- Create an interactive program.
-- Read from a file.
-- Choose a random value.
-- Keep track of state.
--
-
-## Details
-
-### Deliverables
-
-- A Git repo containing at least:
-
-  - a `README.md` file explaining how to run your project
-
-### Requirements
-
-- No PEP8 warnings or errors
-
 ## Normal Mode
 
 You will implement the game Mystery Word. In your game, you will be playing
@@ -78,10 +52,6 @@ the game ends.
 When a game ends, ask the user if they want to play again. The game begins
 again if they reply positively.
 
-## Hard Mode
-
-Implement the [evil version of this game](http://nifty.stanford.edu/2011/schwarz-evil-hangman/).
-Put it in a new Python program called "demon_words.py".
 
 ## Credit
 
